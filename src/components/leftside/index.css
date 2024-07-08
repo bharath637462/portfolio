@@ -1,0 +1,52 @@
+.left{
+     display: flex;
+     flex-direction: column;
+     padding: 7% 0% 7% 13%;
+     text-align: left;
+     width: 40%;
+}
+.name{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+    line-height: 48px;
+    margin-bottom: 15px;
+}  
+.role{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #C0ccD7;
+    margin-bottom: 15px;
+} 
+.about{
+    font-size: 16px;
+    color: #A7A198;
+}
+.lists{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    font-size: 12px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+
+
+}
+.icons{
+    display: flex;
+    margin-top: 220px;
+    color: #A7A198;
+    gap: 2.9%;
+}
+.line {
+    border-top: 1px solid black;
+    width: 25px;
+    margin-right: 10px;
+}
+.lis {
+    display: flex;
+    align-items: center;
+}

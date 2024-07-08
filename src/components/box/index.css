@@ -1,0 +1,32 @@
+.time{
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 500;
+    min-width: 130px;
+
+}
+.box{
+    display: flex;
+    margin: 0 auto;
+    border: 2px;
+    box-sizing: border-box;
+
+}
+.box-title{
+    color: rgb(226 232 240);
+    
+}
+.box-language{
+    width: 100%;
+    max-width: 600px; /* Adjust max-width as needed */
+    padding: 5px 14px 6px 14px;
+    margin: 0 auto;
+    border: 2px ;
+    border-radius: 14px; /* Curves the edges */
+    box-sizing: border-box;
+    font-size: 14px;
+    color: rgb(94 234 212);
+    background-color: #14283F;
+    line-height: 1.6;
+    font-weight: 500;
+}
